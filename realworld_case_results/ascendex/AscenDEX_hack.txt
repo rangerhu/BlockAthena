@@ -1,0 +1,21 @@
+AscenDEX Hack Summary
+
+On December 11, 2021, the centralized cryptocurrency exchange AscenDEX (formerly BitMax) suffered a major security breach.
+
+Attack Time:
+- UTC: 2021-12-11 22:00 (approx)
+- Blockchain height: ~13,800,000 (Ethereum mainnet)
+
+Attack Details:
+- Private keys to AscenDEX's hot wallets were compromised.
+- The attackers transferred approximately $77 million worth of crypto assets to multiple external wallets.
+- Tokens stolen include ERC-20 tokens such as USDT, USDC, DAI, and others.
+
+Modus Operandi:
+- Assets were rapidly moved to newly created attacker-controlled wallets.
+- Funds were then mixed and distributed via DEXs and cross-chain bridges.
+- The attack showed synchronized behavior typical of botnet-style execution.
+
+References:
+- https://www.coindesk.com/business/2021/12/12/crypto-exchange-ascendex-hacked-losses-estimated-at-77m/
+- Ethereum transaction logs and victim wallet addresses archived in this dataset.

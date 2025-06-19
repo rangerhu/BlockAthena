@@ -1,0 +1,25 @@
+WarpFinance Hack Summary
+
+On December 17, 2020, WarpFinance—a DeFi protocol for stablecoin lending—was exploited in a sophisticated flash loan attack.
+
+Attack Time:
+- UTC: 2020-12-17 19:00–20:00
+- Ethereum Block Range: ~11,540,000 to ~11,542,000
+
+Attack Details:
+- The attacker exploited a vulnerability in WarpFinance's vault accounting logic.
+- By using flash loans, the attacker manipulated the collateral value of LP (liquidity provider) tokens.
+- This allowed them to borrow more stablecoins than they should have been able to, draining approximately $7.7 million worth of stablecoins (mostly DAI, USDC, USDT).
+
+Modus Operandi:
+- The attacker executed multiple flash loans and interactions with WarpFinance in a single transaction bundle.
+- After the protocol was exploited, funds were moved to intermediary wallets.
+- Portions of the stolen assets were later returned after WarpFinance negotiated with the attacker.
+
+Notable Characteristics:
+- The attack involved complex multi-step transactions and large-volume flash loans.
+- Timing and address behaviors suggest automated orchestration and precise control over multiple contracts and accounts.
+
+References:
+- https://rekt.news/warp-finance-rekt/
+- https://etherscan.io/tx/0x984af6... (example of a flash-loan transaction)

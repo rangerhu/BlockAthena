@@ -1,0 +1,26 @@
+KuCoin Hack Summary
+
+On September 25, 2020, the centralized cryptocurrency exchange KuCoin experienced a major security breach involving the compromise of its hot wallets.
+
+Attack Time:
+- UTC: 2020-09-25 23:05 (approx)
+- Ethereum Block Height: ~10,820,000
+
+Attack Details:
+- Private keys to KuCoin's hot wallets were stolen.
+- The attackers drained over $280 million worth of assets from Ethereum, Bitcoin, and other blockchains.
+- Ethereum-based tokens involved include USDT, USDC, LINK, SNX, and others.
+
+Modus Operandi:
+- Funds were transferred in large batches from KuCoin hot wallets to attacker-controlled addresses.
+- Attackers used DEXs such as Uniswap and Curve to swap and mix the stolen tokens.
+- Part of the funds were laundered via cross-chain protocols to obfuscate traceability.
+
+Notable Characteristics:
+- Highly synchronized token draining.
+- Use of bot-controlled wallets and frequent swaps within short intervals.
+- Strong co-occurrence behavior patterns were observed among attacker addresses.
+
+References:
+- https://www.coindesk.com/markets/2020/09/26/kucoin-exchange-hacked-suspected-280m-in-crypto-lost/
+- On-chain evidence and attacker addresses are documented in the attached dataset.
