@@ -86,31 +86,3 @@ python main_runner.py --input data/raw/transactions.csv --target example_case --
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 📄 Dependencies
-```
-pandas
-numpy
-matplotlib
-networkx
-pywt
-scipy
-torch
-torch_geometric
-```
-
