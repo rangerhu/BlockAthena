@@ -47,20 +47,40 @@ BlockAthena/
 └── README.md                  
 ```
 
+## 📊 Real-world Case Result
+
+### Case 1️⃣: AscenDEX Hack
+On December 11, 2021, the centralized cryptocurrency exchange AscenDEX experienced a major security breach.
+BlockAthena first visualizes the long-term  crime-related behavioral traits MMTS  follows: 
+![AscenDEX Crime Evolution MMTS](realworld_case_results/ascendex/MMTS.png)
+Then, the figure below illustrates the crime evolution periods identified in the AscenDEX hack using BlockAthena:
+![AscenDEX Crime Evolution](realworld_case_results/ascendex/main_period_trends.png)
+
+
+### Case 2️⃣: KuCoin Hack
+On September 25, 2020, the centralized cryptocurrency exchange KuCoin experienced a major security breach involving the compromise of its hot wallets.
+BlockAthena first visualizes the long-term  crime-related behavioral traits MMTS  follows: 
+![KuCoin Hack Evolution MMTS](realworld_case_results/kucoin/MMTS.png)
+Then, the figure below illustrates the crime evolution periods identified in the KuCoin Hack using BlockAthena:
+![KuCoin Hack Evolution](realworld_case_results/kucoin/main_period_trends.png)
+
+
+### Case 3️⃣: WarpFinance Hack
+On December 17, 2020, WarpFinance—a DeFi protocol for stablecoin lending—was exploited in a sophisticated flash loan attack.
+BlockAthena first visualizes the long-term  crime-related behavioral traits MMTS  follows: 
+![WarpFinance Hack Evolution MMTS](realworld_case_results/warpfinance/MMTS.png)
+Then, the figure below illustrates the crime evolution periods identified in the WarpFinance Hack using BlockAthena:
+![WarpFinance Hack Evolution](realworld_case_results/warpfinance/main_period_trends.png)
+
+
 ## 🚀 Getting Started
 
 ### Step 1️⃣: Prepare Ethereum Transaction Data
 
 Collect transaction data of Ethereum crime-related addresses. You can obtain this data from:
 
-- Ethereum full node, or  
-- Public blockchain explorers (e.g., Etherscan APIs)
+- e.g., Ethereum full node  
 
-The transaction CSV should include at least the following columns:
-
-- `from`: sender address  
-- `to`: receiver address  
-- `timestamp`: Unix timestamp
 
 Place the file in the following directory: data/raw/
 
