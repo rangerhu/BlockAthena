@@ -51,7 +51,7 @@ BlockAthena/
 
 ### Case 1️⃣: AscenDEX Hack
 On December 11, 2021, the centralized cryptocurrency exchange AscenDEX experienced a major security breach.
-BlockAthena first visualizes the long-term  crime-related behavioral traits MMTS  follows: 
+BlockAthena first visualizes the long-term  crime-related behavioral traits MMTS as follows: 
 ![AscenDEX Crime Evolution MMTS](realworld_case_results/ascendex/MMTS.png)
 Then, the figure below illustrates the crime evolution periods identified in the AscenDEX hack using BlockAthena:
 ![AscenDEX Crime Evolution](realworld_case_results/ascendex/main_period_trends.png)
@@ -59,7 +59,7 @@ Then, the figure below illustrates the crime evolution periods identified in the
 
 ### Case 2️⃣: KuCoin Hack
 On September 25, 2020, the centralized cryptocurrency exchange KuCoin experienced a major security breach involving the compromise of its hot wallets.
-BlockAthena first visualizes the long-term  crime-related behavioral traits MMTS  follows: 
+BlockAthena first visualizes the long-term  crime-related behavioral traits MMTS  as follows: 
 ![KuCoin Hack Evolution MMTS](realworld_case_results/kucoin/MMTS.png)
 Then, the figure below illustrates the crime evolution periods identified in the KuCoin Hack using BlockAthena:
 ![KuCoin Hack Evolution](realworld_case_results/kucoin/main_period_trends.png)
@@ -67,7 +67,7 @@ Then, the figure below illustrates the crime evolution periods identified in the
 
 ### Case 3️⃣: WarpFinance Hack
 On December 17, 2020, WarpFinance—a DeFi protocol for stablecoin lending—was exploited in a sophisticated flash loan attack.
-BlockAthena first visualizes the long-term  crime-related behavioral traits MMTS  follows: 
+BlockAthena first visualizes the long-term  crime-related behavioral traits MMTS as  follows: 
 ![WarpFinance Hack Evolution MMTS](realworld_case_results/warpfinance/MMTS.png)
 Then, the figure below illustrates the crime evolution periods identified in the WarpFinance Hack using BlockAthena:
 ![WarpFinance Hack Evolution](realworld_case_results/warpfinance/main_period_trends.png)
